@@ -1,0 +1,4 @@
+.idea
+venv/
+for_tests.py
+telebot/organizations_info.json
