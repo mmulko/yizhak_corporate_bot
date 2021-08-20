@@ -2,3 +2,5 @@
 venv/
 for_tests.py
 telebot/organizations_info.json
+admin_code.py
+temp.py
